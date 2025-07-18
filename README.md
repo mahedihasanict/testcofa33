@@ -1,2 +1,2 @@
 # testcofa33
-ICT EDGE teaching test project
+This data is multidiomensional, so that radsar chart would be the best choice.
